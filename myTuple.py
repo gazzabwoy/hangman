@@ -1,1 +1,1 @@
-wordlist = ("Grape_Ape","Orange_Tree","Apple_Cider","Banana_Split","Melon_Balls")
+wordlist = ("grape_ape","orange_tree","apple_cider","banana_split","melon_balls")
